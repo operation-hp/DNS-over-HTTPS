@@ -8,12 +8,12 @@ Set-up on devices
 1. On Browsers
     -	Firefox
     -	Chrome
-    - Edge
+    -   Edge
 2. On Operating Systems
     -	Windows 10
     -	Androids
-    - IOS
-•	Openwrt
+    -   IOS
+    -   Openwrt
 3.	Own DNS-over-HTTPS (DoH) server (Open Source)
 Useful Websites
 
@@ -21,6 +21,7 @@ Useful Websites
 
 ## Basic knowledge
 DNS over HTTPS(DoH) protocol is that the communication is encrypted using built-in application HTTPS standards. It was first introduced in October 2018 (IETF RFC 8484) with a goal of increasing user security and privacy. With DNS over HTTPS (DoH), DNS queries and responses are encrypted and sent via the HTTP or HTTP/2 protocols. DoH ensures that attackers cannot forge or alter DNS traffic. DoH uses port 443, the standard HTTPS traffic port, to wrap the DNS query in an HTTPS request.
+
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/51909803/215741571-81bfe9b1-827a-4c40-a76b-55763c3fc39a.png">
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/51909803/215741620-a52a7ade-a17f-4003-b98e-9e3989337856.png">

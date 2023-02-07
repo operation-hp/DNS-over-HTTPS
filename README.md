@@ -1,5 +1,5 @@
 # DNS-over-HTTPS
-Resources for DNS over HTTPS. Encrypted DNS setup and helpful tips. #DOH #Privacy 
+Resources for DNS over HTTPS organised by [AP Lens](https://www.aplens.co/). Encrypted DNS setup and helpful tips. #DOH #Privacy #APLens
 
 # Contents
 * [Basic knowledge](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#basic-knowledge)
@@ -14,7 +14,7 @@ Resources for DNS over HTTPS. Encrypted DNS setup and helpful tips. #DOH #Privac
         -	[Androids](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#androids)
         -   [IOS](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#ios)
         -   [Openwrt](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#ios)
-    3.	Own DNS-over-HTTPS (DoH) server (Open Source)
+    3.	[Own DNS-over-HTTPS (DoH) server (Open Source)](https://github.com/operation-hp/DNS-over-HTTPS/blob/main/README.md#own-dns-over-https-doh-server-open-source)
 * [Useful Websites](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#useful-website)
 
 
@@ -49,26 +49,26 @@ DNS over HTTPS(DoH) protocol is that the communication is encrypted using built-
 ## Set-up on devices
 ### On Browsers
 #### Firefox
-[Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)  Guideline by Firefox Official website 
+* [Firefox DNS-over-HTTPS](https://support.mozilla.org/en-US/kb/firefox-dns-over-https)  Guideline by Firefox Official website 
 ##### Chrome
-[Enable DNS Over HTTPS (DoH) in Chrome](https://www.technipages.com/enable-dns-https-chrome)  Guidelines for enabling DoH in Chrome by technipages.com.
+* [Enable DNS Over HTTPS (DoH) in Chrome](https://www.technipages.com/enable-dns-https-chrome)  Guidelines for enabling DoH in Chrome by technipages.com.
 #### Edge
-[Enable DoH in Microsoft Edge](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/#:~:text=%E2%80%8B%E2%80%8B%20Microsoft%20Edge,Select%20Choose%20a%20service%20provider.)  Guidelines provided by Cloudflare
+* [Enable DoH in Microsoft Edge](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/#:~:text=%E2%80%8B%E2%80%8B%20Microsoft%20Edge,Select%20Choose%20a%20service%20provider.)  Guidelines provided by Cloudflare
 
 ### On Operating Systems
 #### Windows 10
-[Enabling DNS over HTTPS via Windows 10 Settings](https://heimdalsecurity.com/blog/dns-over-https-doh/)  Guidelines of setting up DoH in Windows 10
+* [Enabling DNS over HTTPS via Windows 10 Settings](https://heimdalsecurity.com/blog/dns-over-https-doh/)  Guidelines of setting up DoH in Windows 10
 #### Androids
-[Android set up DoH](https://www.androidpolice.com/android-dns-over-https-mainline/) - Guidelines of setting up DoH in Android
+* [Android set up DoH](https://www.androidpolice.com/android-dns-over-https-mainline/) - Guidelines of setting up DoH in Android
 #### IOS
-[IOS set up DoH](https://support.quad9.net/hc/en-us/articles/360057889591-Setup-iOS-DNS-over-HTTPS-or-DNS-over-TLS)  Guidelines of setting up DoH in IOS  by Quad9
-[encrypted-dns-configs](https://github.com/paulmillr/encrypted-dns)  – Configuration file of DoH in IOS provided by Github
+* [IOS set up DoH](https://support.quad9.net/hc/en-us/articles/360057889591-Setup-iOS-DNS-over-HTTPS-or-DNS-over-TLS)  Guidelines of setting up DoH in IOS  by Quad9
+* [encrypted-dns-configs](https://github.com/paulmillr/encrypted-dns)  – Configuration file of DoH in IOS provided by Github
 #### Openwrt
-[Method for setting up DoH on OpenWrt](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy)  It describes the method for setting up DNS over HTTPS on OpenWrt.
+* [Method for setting up DoH on OpenWrt](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy)  It describes the method for setting up DNS over HTTPS on OpenWrt.
 
 ### Own DNS-over-HTTPS (DoH) server (Open Source) 
-[DNS-over-HTTPS in Github](https://github.com/m13253/dns-over-https)  Guidelines for setting up your own DoH server.
-[DNS Proxy Server](https://github.com/AdguardTeam/dnsproxy)  DNS proxy server that supports DNS protocols including DNS-over-TLS, DNS-over-HTTPS.
+* [DNS-over-HTTPS in Github](https://github.com/m13253/dns-over-https)  Guidelines for setting up your own DoH server.
+* [DNS Proxy Server](https://github.com/AdguardTeam/dnsproxy)  DNS proxy server that supports DNS protocols including DNS-over-TLS, DNS-over-HTTPS.
 
 ## Useful Website
 * [APNIC](https://www.apnic.net/) - Regional Internet Registry administering IP addresses for the Asia Pacific
@@ -77,4 +77,5 @@ DNS over HTTPS(DoH) protocol is that the communication is encrypted using built-
 * [Security Boulevard](https://securityboulevard.com/) - Serve the security and related communities by providing a single destination for information, education and discourse on the leading topics and issues facing the security
 * [Microsoft Learn](https://learn.microsoft.com/en-us/)
 * [Google Public DNS](https://developers.google.com/speed/public-dns)
+* [AP-Lens](https://www.aplens.co) - Advanced Cybersecurity company for achieving successful cybersecurity, bringing together safety and user experience
 

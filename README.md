@@ -1,21 +1,21 @@
 # DNS-over-HTTPS
 Resources for DNS over HTTPS. Encrypted DNS setup and helpful tips. #DOH #Privacy 
 
-#Contents
-Basic knowledge
-News & Blog post
-Set-up on devices
-1. On Browsers
-    -	Firefox
-    -	Chrome
-    -   Edge
-2. On Operating Systems
-    -	Windows 10
-    -	Androids
-    -   IOS
-    -   Openwrt
-3.	Own DNS-over-HTTPS (DoH) server (Open Source)
-Useful Websites
+# Contents
+* [Basic knowledge](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#basic-knowledge)
+* [News & Blog post](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#news--blog-post)
+* [Set-up on devices](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#set-up-on-devices)
+    1. On Browsers
+        -	[Firefox](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#firefox)
+        -	[Chrome](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#chrome)
+        -   [Edge](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#edge)
+    2. On Operating Systems
+        -	[Windows 10](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#windows-10)
+        -	[Androids](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#androids)
+        -   [IOS](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#ios)
+        -   [Openwrt](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#ios)
+    3.	Own DNS-over-HTTPS (DoH) server (Open Source)
+* [Useful Websites](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#useful-website)
 
 
 

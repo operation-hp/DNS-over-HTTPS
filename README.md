@@ -1,5 +1,5 @@
-# DNS-over-HTTPS
-Resources for DNS over HTTPS organised by [AP Lens](https://www.aplens.co/). Encrypted DNS setup and helpful tips. #DOH #Privacy #APLens
+# DNS-over-HTTPS Awesome List
+Resources for DNS over HTTPS organised by [AP Lens DNS Firewall](https://www.aplens.co/). Encrypted DNS setup and helpful tips. #DOH #Privacy #APLens
 
 # Contents
 * [Basic knowledge](https://github.com/operation-hp/DNS-over-HTTPS/edit/main/README.md#basic-knowledge)
@@ -71,11 +71,11 @@ DNS over HTTPS(DoH) protocol is that the communication is encrypted using built-
 * [DNS Proxy Server](https://github.com/AdguardTeam/dnsproxy)  DNS proxy server that supports DNS protocols including DNS-over-TLS, DNS-over-HTTPS.
 
 ## Useful Website
-* [APNIC](https://www.apnic.net/) - Regional Internet Registry administering IP addresses for the Asia Pacific
+*  [AP-Lens](https://www.aplens.co) - Whitelist DNS providing network isolation 
 * [ITECHTICS](https://www.itechtics.com/) - Technology blog focusing on Windows news and updates, latest downloads, software tips and tricks, and troubleshooting guides.
 * [Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/) - One of the world's largest networks that powers more than 10 trillion requests per month.
 * [Security Boulevard](https://securityboulevard.com/) - Serve the security and related communities by providing a single destination for information, education and discourse on the leading topics and issues facing the security
 * [Microsoft Learn](https://learn.microsoft.com/en-us/)
 * [Google Public DNS](https://developers.google.com/speed/public-dns)
-* [AP-Lens](https://www.aplens.co) - Advanced Cybersecurity company for achieving successful cybersecurity, bringing together safety and user experience
+* [APNIC](https://www.apnic.net/) - Regional Internet Registry administering IP addresses for the Asia Pacific
 
